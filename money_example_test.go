@@ -2,9 +2,8 @@ package money_test
 
 import (
 	"fmt"
+	"github.com/Rhymond/go-money/core/money"
 	"log"
-
-	"github.com/Rhymond/go-money"
 )
 
 func ExampleMoney() {
